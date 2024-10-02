@@ -38,12 +38,10 @@ body{
 }
 
 p{
-    display: flex;
+    width: 300px;
     margin-left: 590px;
     font-weight: bold;
-    font-size: larger;
-    border: 2px solid black;
-    width: 430px;
+ 
 }
 
 #task ul i{
